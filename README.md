@@ -6,6 +6,7 @@ I am used Dot Net Core 6 version for this project
 Installed Dapper for data access:
 
 dotnet add package Dapper
+
 dotnet add package Microsoft.Data.SqlClient
 
 Used Repository Pattern and Dependency injection.
